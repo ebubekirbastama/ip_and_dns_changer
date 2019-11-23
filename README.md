@@ -1,5 +1,6 @@
 # BekraPhoneLognig
-![](https://github.com/ebubekirbastama/BekraPhoneLognig/blob/master/1.png)
+![](https://github.com/ebubekirbastama/ip_and_dns_changer/blob/master/1.png)
+![](https://github.com/ebubekirbastama/ip_and_dns_changer/blob/master/2.png)
 
 #Made by @SiyahMuhafız
 
