@@ -2,7 +2,7 @@
 ![](https://github.com/ebubekirbastama/ip_and_dns_changer/blob/master/1.png)
 ![](https://github.com/ebubekirbastama/ip_and_dns_changer/blob/master/2.png)
 
-#Made by @SiyahMuhafız
+#Made by @EbubekirBastama
 
 
 Programın Özellikleri:
@@ -26,7 +26,3 @@ Programın Özellikleri:
 Bizlere Destek Olmak için:
 Bu proje gibi projelerin gelmesi ve bizlere destek olmak için bağış yapabilirsiniz.
 You can donate to come to projects like this project and support us.
-
-                                                 Kuvettürk İban Number
-                                              ------------------------------
-                                               TR40 0020 5000 0939 0747 4000 01
